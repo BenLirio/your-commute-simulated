@@ -63,7 +63,7 @@ const COMMUTERS = {
     { id: 'cat', emoji: '🐈', name: 'Cat Keyboard Walk', quirk: 'participates in all meetings', action: 'sends a very important email to a client' },
     { id: 'unmuted', emoji: '🔊', name: 'Unmuted Background', quirk: 'audible life', action: 'eats cereal at full volume on a call' },
     { id: 'couch', emoji: '🛋️', name: 'Ergonomic Skeptic', quirk: 'never at desk', action: 'joins standup from the couch, camera off' },
-    { id: 'coffee', emoji: ☕, name: 'Third Cup Person', quirk: 'always refilling', action: 'brews another cup instead of responding to Slack' },
+    { id: 'coffee', emoji: '☕', name: 'Third Cup Person', quirk: 'always refilling', action: 'brews another cup instead of responding to Slack' },
     { id: 'blur', emoji: '🔵', name: 'Background Blur Abuser', quirk: 'mysterious backdrop', action: 'is visually indistinguishable from the meeting thumbnail' },
     { id: 'reply_all', emoji: '📧', name: 'Reply-All Oracle', quirk: 'includes everyone', action: 'CCs 14 people on a one-sentence response' },
   ]
